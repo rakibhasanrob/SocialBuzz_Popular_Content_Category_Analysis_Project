@@ -33,6 +33,10 @@ The analysis reveals that content related to animals, science, healthy eating, t
 +	Social Buzz Big Data Audit.
 +	User Reaction Data from Social Buzz.
 
+### Interactive Dashboard:
+
+https://app.powerbi.com/view?r=eyJrIjoiOTg5MTg3MTktMTQ0My00ZTZiLWJjMDAtYmQxODM3MGMzODIzIiwidCI6ImIyODc5ZDVhLTA0ZDItNDAwNy05NTc0LTQ1MTI3NWYwNmQ4MCIsImMiOjEwfQ%3D%3D
+
 ### Dashboard:
 
 ![Snapshot of Dashboard](https://github.com/user-attachments/assets/88b269f7-61bc-4637-bbb7-56f7b82ded12)
